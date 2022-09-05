@@ -1,3 +1,3 @@
 # todoList
 
-A simple todo List with Embedded JavaScript 
+A beautiful Todo List website with multiple page support and database connectivity, made with Node + Express and EJS
